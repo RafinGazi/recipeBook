@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">recipeBook</string>
+    <string name="button">Button</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_an_user_log_in_from_here">Already an user? log in from here</string>
+    <string name="password">password</string>
+    <string name="email_address">email address</string>
+    <string name="log_in">log in</string>
+    <string name="not_registered_sign_up_here">not registered? sign up here</string>
+    <string name="add_a_commnent">add a commnent</string>
+</resources>
